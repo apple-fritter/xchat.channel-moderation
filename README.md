@@ -1,0 +1,1 @@
+# xchat.channel-moderation
