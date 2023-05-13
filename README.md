@@ -1,5 +1,9 @@
-# xchat.channel-moderation
-This is a simple Python script for XChat that adds basic moderation commands for banning, kickbanning, kicking, and ignoring users in a chat room.
+# Channel moderation
+This is a simple Python script for XChat that adds basic moderation commands for banning, kickbanning, kicking, and ignoring users.
+
+This git is intended to provide the barest of moderation functionality to an otherwise unconfigured XChat install.
+
+> It is likely more advanced users will not find this script of much interest.
 
 ## Usage
 The following commands are available:
