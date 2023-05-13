@@ -11,7 +11,7 @@ The following commands are available:
 
 To use a command, simply type it into the chat input field and press Enter.
   
-  ## Other IRC related repositories:
+## Other IRC related repositories:
 
 #### WeeChat
 - [weechat.ban-evasion-detection](https://github.com/apple-fritter/weechat.ban-evasion-detection): Detect and prevent ban evasion. Python.
@@ -24,7 +24,8 @@ To use a command, simply type it into the chat input field and press Enter.
 - [irccloud-to-xchat](https://github.com/apple-fritter/irccloud-to-xchat): Convert IRC logs from the IRCcloud format to the XChat format. Rust.
 
 #### X-Chat
-- [doppelganger](https://github.com/apple-fritter/doppelganger): Masquerade X-Chat client as an out-of-the-box mIRC client. Python.
+- [xchat.channel-moderation](https://github.com/apple-fritter/xchat.channel-moderation): Moderate an IRC channel. Python.
+- [doppelganger](https://github.com/apple-fritter/doppelganger): X-Chat mIRC imposter. Fingerprint subversion. Python bundle.
 
 #### IRC General
 
